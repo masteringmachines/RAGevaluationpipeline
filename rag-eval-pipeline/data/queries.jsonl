@@ -1,0 +1,6 @@
+{"query": "What is BM25 used for?", "relevant_doc_ids": ["doc3"], "metadata": {"category": "lexical-retrieval"}}
+{"query": "How does FAISS support similarity search over embeddings?", "relevant_doc_ids": ["doc2", "doc6"], "metadata": {"category": "vector-search"}}
+{"query": "What does Mean Reciprocal Rank measure?", "relevant_doc_ids": ["doc8"], "metadata": {"category": "metrics"}}
+{"query": "Explain retrieval augmented generation", "relevant_doc_ids": ["doc5"], "metadata": {"category": "rag"}}
+{"query": "Which lightweight model produces sentence embeddings?", "relevant_doc_ids": ["doc4"], "metadata": {"category": "embeddings"}}
+{"query": "What is the difference between recall and precision?", "relevant_doc_ids": ["doc7"], "metadata": {"category": "metrics"}}

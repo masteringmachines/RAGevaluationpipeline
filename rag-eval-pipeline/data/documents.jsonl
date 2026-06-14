@@ -1,0 +1,8 @@
+{"id": "doc1", "text": "Python is a high-level, dynamically typed programming language widely used for data science, scripting, and web development."}
+{"id": "doc2", "text": "FAISS (Facebook AI Similarity Search) is a library for efficient similarity search and clustering of dense vectors, supporting both exact and approximate nearest-neighbor search."}
+{"id": "doc3", "text": "BM25 is a bag-of-words ranking function used by search engines to estimate the relevance of documents to a given search query, based on term frequency and inverse document frequency."}
+{"id": "doc4", "text": "Sentence-transformers like all-MiniLM-L6-v2 produce dense vector embeddings of sentences that capture semantic meaning, enabling similarity comparisons via cosine distance."}
+{"id": "doc5", "text": "Retrieval-Augmented Generation (RAG) combines a retriever that fetches relevant documents with a language model that generates answers grounded in that retrieved context."}
+{"id": "doc6", "text": "Vector databases such as Pinecone, Weaviate, and Milvus store embeddings and support approximate nearest-neighbor search at scale for semantic retrieval applications."}
+{"id": "doc7", "text": "Recall and precision are core information retrieval metrics: recall measures the fraction of relevant items retrieved, while precision measures the fraction of retrieved items that are relevant."}
+{"id": "doc8", "text": "Mean Reciprocal Rank (MRR) is the average of the reciprocal of the rank of the first relevant result across a set of queries, rewarding systems that place relevant results near the top."}
